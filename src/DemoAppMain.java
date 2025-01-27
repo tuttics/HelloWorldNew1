@@ -18,8 +18,11 @@ public class DemoAppMain {
         System.out.println();
 
         System.out.println("Zweite Zeile");
+        System.out.println();
 
         System.out.println("Dritte Zeile");
+        System.out.println();
+        System.out.println("Vierte Zeile");
 
     }
 }
